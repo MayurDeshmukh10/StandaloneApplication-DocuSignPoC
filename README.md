@@ -2,9 +2,9 @@
 
 # Commands for executing this Application -
 
-1st - javac StandaloneApp.java
+1st - javac -cp javax.json-1.0.jar: StandaloneApp.java
 
-2nd - java StandaloneApp
+2nd - java -cp javax.json-1.0.jar: StandaloneApp
 
 # Configuration of Application -
 
